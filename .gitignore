@@ -2,7 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+<<<<<<< HEAD
 .utmp/
+=======
+>>>>>>> 50b5c2c (Push project)
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
